@@ -24,3 +24,6 @@ When people at Kiva noticed that women generally ask for less when they apply fo
 3. Small Multiples (Jupyter Notebook)
 4. Parallel Coordinates (Jupyter Notebook)
 5. Radar Chart (Jupyter Notebook)
+6. *Additional: Treemap produced with Tableau*
+
+All visualizations are interactive and can be clicked/brushed/zoomed as applicable. On our website red represents female borrowers and blue represents male borrowers. 
