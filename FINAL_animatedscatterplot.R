@@ -21,7 +21,6 @@ y_label <- list(
   titlefont = f1
 )
 
-# pal <- c("rgb(231,41,138)", "rgb(152,78,163)", "rgb(55,126,184)", "rgb(77,175,74)")
 pal <- c("red", "blue")
 
 p <- data %>%
@@ -36,7 +35,6 @@ p <- data %>%
     hoverinfo = "text",
     type = 'scatter',
     mode = 'markers'
-    # marker = list(size = ~size, opacity = 0.5)
   ) %>%
   layout(
     xaxis = x_label,
